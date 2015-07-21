@@ -1,0 +1,28 @@
+body {
+  background-image: url("http://p1.pichost.me/i/25/1484650.jpg");
+  background-repeat:no-repeat;
+  background-position:center center;
+  background-scroll:fixed;
+  background-size:cover;
+  width:100%;
+  height:100%;
+}
+
+.Skylanders{
+  color:#6082b6;
+  font-size:24px;
+}
+ 
+body img{
+  border:2px solid ; 
+  border-color:#0072bb;
+  border-radius:40%;
+}
+.Baloane {
+  float:left;
+}
+
+.Medalia img{
+  width:40%;
+  height:20%;
+}
